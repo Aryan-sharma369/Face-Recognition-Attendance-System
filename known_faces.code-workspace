@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "known_faces",
+			"path": "known_faces"
+		},
+		{
+			"name": "analytics",
+			"path": "analytics"
+		},
+		{
+			"name": "utils",
+			"path": "utils"
+		},
+		{
+			"name": "face_module",
+			"path": "face_module"
+		}
+	]
+}

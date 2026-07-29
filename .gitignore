@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Database
+*.db
+
+# Generated attendance file
+attendance.csv
+attendance.xls
+
+# OS files
+.DS_Store
+Thumbs.db
